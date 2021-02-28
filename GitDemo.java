@@ -50,17 +50,6 @@ public class GitDemo {
        }
 
        return factorialNumber;
-
-   }
-   
-
-        double newNumber = 1;
-        
-        for(int i = 1; i <= num; ++i){
-            newNumber = newNumber * i;
-        }
-        reverseNum = newNumber;
-        return newNumber;
     }
     
 
